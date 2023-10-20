@@ -11,7 +11,7 @@ I'm a passionate developer working towards becoming a Full Stack Developer. I th
 - 💡 Proficient in **Django** and **ReactJS**.
 
 ## Let's Connect
-- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/abhijith-subash/).
+- 📫 You can find me on <button><a href="(https://www.linkedin.com/in/abhijith-subash/)">[LinkedIn]</button>.
 
 Feel free to reach out if you'd like to collaborate, chat about development, or have any questions.
 
