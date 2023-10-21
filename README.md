@@ -3,8 +3,8 @@
 I'm a passionate developer working towards becoming a Full Stack Developer. I thrive on creating exciting applications and love to explore the world of technology.
 
 ## About Me
-- 💻 Developed small applications using **ReactJS** and **Django**.
-- 🚀 Aspiring to become a **Full Stack Developer**.
+- 💻 Developing applications using **ReactJS** and **Django**.
+- 🚀 **Full Stack Developer**.
 - ❤️ I enjoy turning ideas into code.
 
 ## Skills
