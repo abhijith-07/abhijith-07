@@ -9,7 +9,7 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <br/><br/><br/><br/>
+  <br/><br/><br/>
 </div>
 
 - 🚀 **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
