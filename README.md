@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/abhijith-07/gif-repository/blob/main/Hi.gif" width="80%"/> 
 </div>
+<br/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abhijith-subash/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,13 +9,14 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <br/><br/>
 </div>
 
 - 🚀 **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
 - 💻 Developing applications using **ReactJS** and **Django**.
 - ❤️ I enjoy turning ideas into code.
 - 👷‍♀️ I thrive on creating exciting applications.
-
+<br/>
 ### 🧰 Tools and Languages I Love
 
 <div align="center">
@@ -29,6 +31,7 @@
           
 </div>
 
+<br/><br/>
 ### :fire: My GitHub Stats
 <div align="center">
   <picture>
